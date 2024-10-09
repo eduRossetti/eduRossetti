@@ -1,16 +1,21 @@
-## Hi there 👋
+# Eduardo Rossetti
 
-<!--
-**eduRossetti/eduRossetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um Aspirante a desenvolvedor com foco em **Front-End**. Estou sempre buscando aprimorar minhas habilidades e aprender sempre um pouquinho mais.
 
-Here are some ideas to get you started:
+## Sobre mim
+- 🎓 Estou no **7º semestre de Informática integrado ao ensino médio** no IFSC.
+- 💻 Atualmente, estou cursando **dois cursos voltados ao Desenvolvimento Web**.
+- 👨‍💻 Possuo conhecimentos básicos em **React Native**, **banco de dados** e **C**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤓 Tecnologias que utilizo geralmente no meu dia a dia
+- JavaScript
+- HTML
+- CSS
+- Git & GitHub
+
+## 🌐 Redes sociais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-eduardorossetti-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/eduardorossetti)
+[![Instagram](https://img.shields.io/badge/Instagram-eduardo__rsst-orange?style=flat-square&logo=instagram)](https://www.instagram.com/eduardo_rsst)
+
+
+🌱 _“A melhor maneira de prever o futuro é inventá-lo.”_ – Alan Kay
