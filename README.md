@@ -3,9 +3,10 @@
 Sou um Aspirante a desenvolvedor com foco em **Front-End/Full-Stack**. Estou sempre buscando aprimorar minhas habilidades e aprender sempre um pouquinho mais.
 
 ## Sobre mim
-- 🎓 Estou no **8º semestre de Informática integrado ao ensino médio** no IFSC.
-- 💻 Atualmente, estou cursando **um curso voltado ao Desenvolvimento Full Stack**.
-- 👨‍💻 Possuo conhecimentos básicos em **React Native**.
+- 🎓 Concluí o **curso técnico integrado ao ensino médio em Informática** pelo IFSC.
+- 💻 Atualmente, estou cursando **Sistemas de Informação**.
+- 👨‍💻 Também estou fazendo **um curso voltado ao Desenvolvimento Full Stack**.
+- 📱 Possuo conhecimentos básicos em **React Native**.
 
 ## 🤓 Tecnologias que utilizo
 - JavaScript
