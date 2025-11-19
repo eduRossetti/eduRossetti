@@ -7,7 +7,7 @@ Sou um Aspirante a desenvolvedor com foco em **Front-End/Full-Stack**. Estou sem
 ## Sobre mim
 - 🎓 Concluí o **curso técnico integrado ao ensino médio em Informática** pelo IFSC.
 - 💻 Atualmente, estou cursando **Sistemas de Informação**.
-- Trabalho como estagiário na **área de Produto (PO)**
+- ⌨️ Trabalho como estagiário na **área de Produto (PO)**
 - 👨‍💻 Também estou fazendo **um curso voltado ao Desenvolvimento Full Stack**.
 - 📱 Possuo conhecimentos básicos em **React Native**.
 - ◼️ Possuo também conhecimentos intermediários na linguagem **C**.
